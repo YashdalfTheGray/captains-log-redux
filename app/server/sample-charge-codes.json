@@ -1,0 +1,22 @@
+[
+    {
+        "code": 1,
+        "name": "Development"
+    },
+    {
+        "code": 2,
+        "name": "Meetings"
+    },
+    {
+        "code": 3,
+        "name": "Planning"
+    },
+    {
+        "code": 4,
+        "name": "Training"
+    },
+    {
+        "code": 5,
+        "name": "Vacation"
+    }
+]
